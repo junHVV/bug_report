@@ -1,4 +1,4 @@
-Online Diagnostic Lab Management System v1.0 by mayuri_k has SQL injection
+# Online Diagnostic Lab Management System v1.0 by mayuri_k has SQL injection
 
 BUG_Author: hujun
 
